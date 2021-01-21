@@ -10,6 +10,7 @@
     margin: 0;
     padding: 0;
     color: #333;
+    background-image: linear-gradient(to left, #2457d7, #3b125d);
 }
 h1,
 h2,
@@ -102,6 +103,7 @@ h3
     text-decoration: none;
     color: #56a5eb;
     background-color: white;
+    border-radius:30px;
 }
 .btn:hover,
 .choice-container:hover
