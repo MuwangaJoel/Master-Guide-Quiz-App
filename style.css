@@ -10,7 +10,7 @@
     margin: 0;
     padding: 0;
     color: #333;
-    background-image: linear-gradient(to left, #2457d7, #3b125d);
+   
 }
 h1,
 h2,
@@ -35,6 +35,7 @@ h2
     font-size: 4.2rem;
     margin-bottom: 4rem;
     font-weight: 700;
+    
 }
 h3
 {
@@ -63,6 +64,7 @@ h3
     max-width: 80rem;
     margin: 0 auto;
     padding: 2rem;
+      background-image: linear-gradient(to left, #e4e8f1, #2d48bd);
 }
 .container, .container2 > *
 {
